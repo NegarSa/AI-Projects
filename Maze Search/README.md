@@ -5,4 +5,4 @@ Implemetation of search algorithms to solve a maze.
  - A*
  - IDS
 
-![](ex.png)
+![](res.png)
