@@ -1,4 +1,8 @@
-# AI-Projects
-Collection of all projects done for the AI course.
- - The Genetic Algorithm.
- - 
+Implemetation of search algorithms to solve a maze.
+ - BFS
+ - DFS
+ - RBFS 
+ - A*
+ - IDS
+
+![](ex.png)
